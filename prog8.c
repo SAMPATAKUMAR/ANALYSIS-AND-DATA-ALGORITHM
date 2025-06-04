@@ -28,6 +28,6 @@ int main()
     if(subset(set,n,sum)==true)
         printf("set found");
         else
-            printf("set not founed");
+            printf("set not found");
      return 0;
  }
